@@ -1,2 +1,2 @@
 ## 📸 Project Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png.png)
